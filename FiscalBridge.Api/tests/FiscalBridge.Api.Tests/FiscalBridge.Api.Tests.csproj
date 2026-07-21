@@ -20,6 +20,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\FiscalBridge.Api\FiscalBridge.Api.csproj" />
+    <ProjectReference Include="..\..\src\FiscalBridge.Application\FiscalBridge.Application.csproj" />
+    <ProjectReference Include="..\..\src\FiscalBridge.Domain\FiscalBridge.Domain.csproj" />
+    <ProjectReference Include="..\..\src\FiscalBridge.Infrastructure\FiscalBridge.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

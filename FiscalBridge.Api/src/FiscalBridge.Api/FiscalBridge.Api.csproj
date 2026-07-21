@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FiscalBridge.Application\FiscalBridge.Application.csproj" />
+    <ProjectReference Include="..\FiscalBridge.Infrastructure\FiscalBridge.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
