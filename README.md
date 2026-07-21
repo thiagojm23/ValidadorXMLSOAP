@@ -1,3 +1,7 @@
 ### Projeto utilizado para estudos de SOAP, integração com terceiros e MongoDB.
 
 ### Além de outros pontos como idempotência, retry em mensagens, validação de XML, outbox pattern...
+
+#### Arquitetura utilizada
+
+![Arquitetura](./Excalidraw.png)
